@@ -1,0 +1,7 @@
+mypy>=1.0.0  # For type checking
+pandas-stubs>=2.0.0  # Type stubs for pandas
+pandas>=2.0.0
+reportlab>=3.6.12
+tkcalendar>=1.6.1
+types-reportlab>=3.6.12  # Type stubs for reportlab
+typing-extensions>=4.5.0
