@@ -1,0 +1,20 @@
+[
+    {
+        "cliente": "Nuevo",
+        "fecha": "07/01/2025",
+        "marca": "Citroen",
+        "modelo": "C1",
+        "anio": "2025",
+        "patente": "DDEE90",
+        "duracion": "4 días o hasta agotar stock",
+        "productos": [
+            {
+                "producto": "Neumáticos",
+                "cantidad": 2,
+                "precio": 10000.0,
+                "total": 20000.0
+            }
+        ],
+        "total": 20000.0
+    }
+]
